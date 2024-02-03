@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>music/city.mp3</file>
+        <file>music/Mizuki.mp3</file>
+        <file>music/Synthetech.mp3</file>
+        <file>music/灿烂之路.mp3</file>
+        <file>music/泛用型自动化解决方案0.3.2.9f2.mp3</file>
+        <file>music/旅途前方.mp3</file>
+        <file>music/人性.mp3</file>
+        <file>music/如我所见.mp3</file>
+        <file>music/生命流.mp3</file>
+        <file>music/休憩.mp3</file>
+        <file>music/寻隐.mp3</file>
+        <file>music/引航者试炼.mp3</file>
+    </qresource>
+</RCC>
